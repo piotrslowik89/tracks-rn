@@ -70,4 +70,3 @@ export const { Provider, Context } = createDataContext(
   { signin, signout, signup, clearErrorMessage, tryLocalSignin },
   { token: null, errorMessage: '' }
 );
-© 2021 GitHub, Inc.
